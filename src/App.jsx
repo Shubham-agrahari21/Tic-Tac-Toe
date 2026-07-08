@@ -113,41 +113,6 @@ function reSet(){
 
 
 
-           {/* <button onClick={()=>{
-            handle(0)
-           }} className='h-24 p-4 rounded-xl   bg-cyan-800 active:scale-95 '> {user[0]}</button>
-              <button onClick={()=>{
-            handle(1)
-           }}className='h-24 p-4 rounded-xl  bg-cyan-800 active:scale-95 '>{user[1]}</button>
-               <button onClick={()=>{
-            handle(2)
-           }
-           } className='h-24 p-4  rounded-xl  bg-cyan-800 active:scale-95 '>{user[2]}</button>
-                <button onClick={()=>{
-            handle(3)
-           }} className='h-24 p-4  rounded-xl flex  bg-cyan-800 active:scale-95 '>{user[3]}</button>
-                 <button onClick={()=>{
-            handle(4)
-           }} className='h-24 p-4  rounded-xl flex  bg-cyan-800 active:scale-95 '>{user[4]}</button>
-                  <button onClick={()=>{
-            handle(5)
-           }} className='h-24 p-4  rounded-xl flex  bg-cyan-800 active:scale-95 '>{user[5]}</button>
-                   <button onClick={()=>{
-            handle(6)
-           }} className='h-24 p-4  rounded-xl flex  bg-cyan-800 active:scale-95 '>{user[6]}</button>
-                    <button onClick={()=>{
-            handle(7)
-           }} className='h-24 p-4  rounded-xl flex  bg-cyan-800 active:scale-95 '>{user[7]}</button>
-                     <button onClick={()=>{
-            handle(8)
-           }} className='h-24 p-4  rounded-xl flex  bg-cyan-800 active:scale-95 '>{user[8]}</button>
-          
-         </div> */}
-
-
-
-
-
 
            
             <div className='border-none' >
